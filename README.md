@@ -1,5 +1,11 @@
 # LyaskiMasyaski Landing Page
 
+> **Важно для GitHub Pages:** Если вы видите этот файл вместо сайта, убедитесь, что в настройках репозитория (**Settings > Pages**) в разделе **Build and deployment** выбран источник **GitHub Actions**. Сайт появится после завершения работы [Actions](../../actions).
+
+---
+
+# LyaskiMasyaski Landing Page
+
 Современный и стильный лендинг в стиле **Soft Minimalism**, созданный для приветствия пользователей и приема платежей.
 
 ## Особенности
